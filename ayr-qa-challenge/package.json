@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+    "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^15.8.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "cypress-axe": "^1.7.0",
+    "wick-a11y": "^2.5.0"
+  }
+}

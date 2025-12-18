@@ -1,0 +1,24 @@
+# Node / Cypress
+node_modules/
+cypress/videos/
+cypress/screenshots/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cypress artifacts
+cypress/videos/
+cypress/screenshots/
+
+# Accessibility reports (axe / cypress-axe)
+cypress/accessibility-reports-folder/
+
+# Node
+node_modules/
+
+# Env
+.env
