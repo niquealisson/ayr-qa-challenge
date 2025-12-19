@@ -5,10 +5,12 @@ cypress/screenshots/
 
 # Env
 .env
+Mobile/TestPraticoAYR/src/test/resources/testdata.properties
 
 # OS
 .DS_Store
 Thumbs.db
+.idea/
 
 # Cypress artifacts
 cypress/videos/
