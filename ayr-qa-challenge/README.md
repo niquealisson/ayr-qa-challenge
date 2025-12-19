@@ -2,8 +2,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/niquealisson/Desafio_Pratico_Quality_Assurance
-cd Desafio_Pratico_Quality_Assurance
+git clone https://github.com/niquealisson/ayr-qa-challenge.git
+cd ayr-qa-challenge.git
 ````
 
 2. Install dependencies:
